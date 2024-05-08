@@ -1,6 +1,6 @@
 # Diagnose Slow Python Code
 
-This Python script demonstrates how to use the Python profiler. It includes two functions, one synchronous and the other asynchronous. Feel free to uncomment the one you want to use. After running the script, type snakeviz <file_name> in the terminal to view the profiling results in a web browser.
+This Python script demonstrates how to use the Python profiler. It includes two functions, one synchronous and the other asynchronous. Feel free to uncomment the one you want to use. After running the script, type `snakeviz <file_name>` in the terminal to view the profiling results in a web browser.
 
 ## Quick Start
 
@@ -13,3 +13,5 @@ python -m pip install -U pip
 python -m pip install -r requirements.txt
 python main.py
 ```
+
+Happy coding!
